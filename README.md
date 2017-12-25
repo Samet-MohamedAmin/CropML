@@ -7,22 +7,22 @@ Well, for the moment it's a mess of code. I've create this application for a sin
 
 
 # Requirements
-_PyGObject [https://pygobject.readthedocs.io]
-_pillow [http://pillow.readthedocs.io/]
+- PyGObject [https://pygobject.readthedocs.io]
+- pillow [http://pillow.readthedocs.io/]
 
 
 # Demonstration
 #### main window
 ![](https://raw.githubusercontent.com/Samet-MohamedAmin/CropML/master/demonstration/main_window.png)
 -----------------------------------------------------------
+#### view window
+![](https://raw.githubusercontent.com/Samet-MohamedAmin/CropML/master/demonstration/view_window.png)
+-----------------------------------------------------------
 #### parameters labels
 ![](https://raw.githubusercontent.com/Samet-MohamedAmin/CropML/master/demonstration/parameters_labels.png)
 -----------------------------------------------------------
 #### parameters piece width
 ![](https://raw.githubusercontent.com/Samet-MohamedAmin/CropML/master/demonstration/parameters_piece_width.png)
------------------------------------------------------------
-#### view window
-![](https://raw.githubusercontent.com/Samet-MohamedAmin/CropML/master/demonstration/view_window.png)
 
 
 
