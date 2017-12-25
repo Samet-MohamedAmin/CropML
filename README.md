@@ -3,7 +3,7 @@ helps creating database of small pieces of photos for some machine learning proj
 
 
 # what is CropML?
-Well, for the moment it's a mess of code. I've create this application for a single reason and now I want to improve it and publish it.  
+Well, for the moment it's a mess of code. I've created this application for a single reason and now I want to improve it and publish it.  
 It works prettry fine, but some existing features make bugs and the code is not editable.
 
 
