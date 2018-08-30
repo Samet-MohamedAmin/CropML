@@ -3,13 +3,18 @@ helps creating database of small pieces of photos for some machine learning proj
 
 
 # what is CropML?
-Well, for the moment it's a mess of code. I've created this application for a single reason and now I want to improve it and publish it.  
-It works prettry fine, but some existing features make bugs and the code is not editable.
+I've created this application for a single purpose and now I want to improve it and publish it.  
+It works prettry fine now.
 
 
 # Requirements
 - PyGObject [https://pygobject.readthedocs.io]
 - pillow [http://pillow.readthedocs.io/]
+
+
+# What's new?
+- restructure the project
+
 
 
 # Demonstration
@@ -19,16 +24,15 @@ It works prettry fine, but some existing features make bugs and the code is not 
 #### view window
 ![](https://raw.githubusercontent.com/Samet-MohamedAmin/CropML/master/demonstration/view_window.png)
 ------------------------------------------------------------------------
-#### parameters labels
-![](https://raw.githubusercontent.com/Samet-MohamedAmin/CropML/master/demonstration/parameters_labels.png)
-------------------------------------------------------------------------
 #### parameters piece width
 ![](https://raw.githubusercontent.com/Samet-MohamedAmin/CropML/master/demonstration/parameters_piece_width.png)
 
 
 
 # what's next?
-- fix a lot of bugs
-- make clean readable code
+- ~~fix a lot of bugs~~
+- ~~make clean readable code~~
+- use python3 instead of old python2
 - make it excutable
+- add project management
 - add other options
