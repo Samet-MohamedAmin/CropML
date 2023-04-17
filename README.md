@@ -1,4 +1,6 @@
 # CropML
+![](logo.png)
+
 helps creating database of small pieces of photos for some machine learning projects based on image recognition.
 
 
@@ -28,11 +30,3 @@ It works prettry fine now.
 ![](https://raw.githubusercontent.com/Samet-MohamedAmin/CropML/master/demonstration/parameters_piece_width.png)
 
 
-
-# what's next?
-- ~~fix a lot of bugs~~
-- ~~make clean readable code~~
-- use python3 instead of old python2
-- make it excutable
-- add project management
-- add other options
